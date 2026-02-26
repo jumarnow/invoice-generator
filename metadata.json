@@ -1,0 +1,5 @@
+{
+  "name": "Instant Invoice Generator",
+  "description": "A simple, fast, and local-first invoice generator with inline editing and instant PDF download.",
+  "requestFramePermissions": []
+}

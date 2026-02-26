@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.pdf-generating .hide-on-pdf {
+  display: none !important;
+}
+
+.pdf-generating .show-on-pdf {
+  display: inline !important;
+}
+
+.pdf-generating.hide-on-pdf-shadow {
+  box-shadow: none !important;
+  padding: 0 !important;
+}
